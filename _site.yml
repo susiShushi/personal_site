@@ -1,5 +1,5 @@
 name: "Namba-website"
-output_dir: "."
+output_dir: "docs"
 navbar:
   title: "Namba-website"
   left:
