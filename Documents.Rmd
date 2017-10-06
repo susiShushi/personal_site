@@ -1,10 +1,9 @@
 ---
 title: "Documents"
-
 ---
 
 
-```{r, echo = FALSE, fig.align='center'}
+```{r, echo = FALSE}
 library(zousan)
 embed_slide("https://www.slideshare.net/ShushiNamba/mental-model-for-emotion?ref=https://www.slideshare.net/ShushiNamba/slideshelf")
 ```

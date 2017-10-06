@@ -8,5 +8,5 @@ title: "About Me"
 
 #### [Education]
 
-M.A., Institute: Department of Psychology, Graduate school of Education, Hiroshima University, 2016
-B.A., Institute: Department of Psychology, Faculty of Education, Hiroshima University, 2014
+- M.A., Institute: Department of Psychology, Graduate school of Education, Hiroshima University, 2016
+- , Institute: Department of Psychology, Faculty of Education, Hiroshima University, 2014
