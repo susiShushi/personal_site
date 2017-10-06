@@ -2,4 +2,4 @@
 title: "Shushi's Website"
 ---
 
-Hello, World!
+__Hello! This is Shushi Namba's website!__
