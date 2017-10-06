@@ -1,9 +1,15 @@
-name: "shushi-website"
+name: "Shushi-website"
 output_dir: "."
 navbar:
-  title: "Shushis Website"
+  title: "Shushi-website"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Achievement"
+      href: Achievement.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
