@@ -2,10 +2,20 @@
 title: "Achievement"
 ---
 
-(Publications)
+#### (Publications)
+[Refereed]
+- Namba S, Russell K, S., Miyatani M & Nakao T. (2017).   Spontaneous facial actions map onto emotional experiences in a non-social context: towards a component-based approach. Frontiers in Psychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415601/
 
-Namba S, Russell K, S., Miyatani M & Nakao T. (2017).   Spontaneous facial actions map onto emotional experiences in a non-social context: towards a component-based approach. Frontiers in Psychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415601/
+- Namba, S., Kagamihara, T., Miyatani, M., & Nakao, T. (2017). Spontaneous Facial Expressions Reveal New Action Units for the Sad Experiences. Journal of Nonverbal Behavior, 1-18. doi:10.1007/s10919-017-0251-6 http://link.springer.com/article/10.1007%2Fs10919-017-0251-6
 
-Namba, S., Kagamihara, T., Miyatani, M., & Nakao, T. (2017). Spontaneous Facial Expressions Reveal New Action Units for the Sad Experiences. Journal of Nonverbal Behavior, 1-18. doi:10.1007/s10919-017-0251-6 http://link.springer.com/article/10.1007%2Fs10919-017-0251-6
+- Namba, S., Makihara, S., Russell, K. S., Miyatani, M., & Nakao, T. (2016). Spontaneous Facial Expressions Are Different from Posed Facial Expressions: Morphological Properties and Dynamic Sequences. Current Psychology, 1-13. doi: 10.1007/s12144-016-9448-9  
 
-Namba, S., Makihara, S., Russell, K. S., Miyatani, M., & Nakao, T. (2016). Spontaneous Facial Expressions Are Different from Posed Facial Expressions: Morphological Properties and Dynamic Sequences. Current Psychology, 1-13. doi: 10.1007/s12144-016-9448-9  
+
+#### (International Conference Presentations)
+
+- Namba S, Russell K. S., Fukuda N., Kobayashi R., Miyatani M, and Nakao T. The initiating ability of facial components and their combinations: testing the facial feedback hypothesis with prior feeling states. the International Society for Research on Emotion (ISRE 2017), St. Rouis, USA, July, 2017 (Poster).
+- Namba S, Naruse M, Hori H, and Nakao T. A mathematical structure underlying the facial feedback hypothesis. 11th International Workshop on Natural Computing, Akita International University Akita JAPAN, 13 (Sat.)-14(Sun) May, 2017 (Oral). 
+- Namba S, Russell K. S., Miyatani M, and Nakao T. Investigating Relationships Between Emotional Experiences and Spontaneous Facial Actions. The Seventh Asian Conference on Psychology & the Behavioral Sciences. Japan. March, 2017 (Oral).
+- Namba S, Miyatani M, and Nakao T.  Leveraging Free Description Data to Investigate the Differences Between Genuine and Posed Facial Expressions of Emotion. The 23rd Congress of the International Association for Cross-Cultural Psychology, Japan, July-August, 2016 (Poster).
+- Namba S, Miyatani M, and Nakao T.  Dynamic Facial Displays as Detectors of Authentically Expressed Emotions. The 31st International Congress of Psychology, Japan, July, 2016 (Poster).
+- Namba S, Miyatani M, and Nakao T.  Genuinely Experienced Facial Expressions of Sadness. The Second Asian Conference on the Social Sciences and Sustainability, Japan, November, 2015 (Poster).

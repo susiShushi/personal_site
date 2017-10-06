@@ -1,5 +1,5 @@
 ---
-title: "Shushi's Website"
+title: "Namba's Website"
 ---
 
 __Hello! This is Shushi Namba's website!__

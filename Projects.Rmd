@@ -2,9 +2,9 @@
 title: "Projects"
 ---
 
-Here's my interest. 
+Here's my research interests. 
 
-#### [The relationships between facial actions and emotional experiences]
+#### [Facial Expressions]
 
 - Spontaneous facial expressions.
 - Facial feedback hypothesis. 
@@ -12,3 +12,4 @@ Here's my interest.
 #### [Statistics]
 
 - This is my only hobby!
+- Cognitive modeling.
