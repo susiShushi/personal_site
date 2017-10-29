@@ -10,3 +10,7 @@ title: "About Me"
 
 - M.A., Institute: Department of Psychology, Graduate school of Education, Hiroshima University, 2016
 - B.A., Institute: Department of Psychology, Faculty of Education, Hiroshima University, 2014
+
+
+#### [Fellowship]
+- Japan Society for the Promotion of Science (DC2)
