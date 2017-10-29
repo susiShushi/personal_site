@@ -9,7 +9,7 @@ navbar:
       href: about.html
     - text: "Projects"
       href: Projects.html
-    - text: "Achievement"
+    - text: "Achievements"
       href: Achievement.html
     - text: "Documents"
       href: Documents.html
