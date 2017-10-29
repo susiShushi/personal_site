@@ -14,3 +14,8 @@ title: "About Me"
 
 #### [Fellowship]
 - Japan Society for the Promotion of Science (DC2)
+- 11th Hiroshima University Dream Challenge awards. Study of cognitive process using computational process model approach: aim for interpretation, 2017
+- Green Wing educational scholarship, 2017
+- Hiroshima University excellent student scholarship, 2016
+- 10th Hiroshima University Dream Challenge awards. Psychological experiment using VR, 2016
+- The Hiroshima University Education and Research Support Foundation Research Grant. Investigation of facial recognition using Faceshift, 2015

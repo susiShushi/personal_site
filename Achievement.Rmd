@@ -19,3 +19,9 @@ title: "Achievement"
 - Namba S, Miyatani M, and Nakao T.  Leveraging Free Description Data to Investigate the Differences Between Genuine and Posed Facial Expressions of Emotion. The 23rd Congress of the International Association for Cross-Cultural Psychology, Japan, July-August, 2016 (Poster).
 - Namba S, Miyatani M, and Nakao T.  Dynamic Facial Displays as Detectors of Authentically Expressed Emotions. The 31st International Congress of Psychology, Japan, July, 2016 (Poster).
 - Namba S, Miyatani M, and Nakao T.  Genuinely Experienced Facial Expressions of Sadness. The Second Asian Conference on the Social Sciences and Sustainability, Japan, November, 2015 (Poster).
+
+
+#### (Other activities)
+- Certificated Facial Action Coding System Coder
+- Translated Chapter 22. ‘Nominal predicted Variable.’ Doing Bayesian Data Analysis a tutorial with R, JAGS, and Stan edition 2, Japanese edition.
+- Japan workshop. ‘The possibility of Bayesian modeling in psychology’ in the 81st Annual Convention of the Japanese Psychological Association.
